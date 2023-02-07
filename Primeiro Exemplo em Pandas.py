@@ -3,6 +3,5 @@
 # Autor:Poyatos e galera
 import pandas as pd
 
-ca_df = pd.read_excel("ca-2022-01.xlsx")
-
+ca_df = pd.read_excel('ca-2021-02.xlsx')
 print(ca_df)
